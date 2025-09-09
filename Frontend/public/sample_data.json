@@ -1,0 +1,67 @@
+[
+  {
+    "Destination": "Goa Beach Resort",
+    "Country": "India",
+    "State": "Goa",
+    "SourceCity": "Mumbai",
+    "Climate": "Tropical",
+    "BudgetLevel": "Medium",
+    "AvgCostINR": 15000,
+    "Activities": "Beaches, Water Sports, Nightlife",
+    "Rating": 4.5,
+    "SafetyIndex": 8.2,
+    "TransportCostINR": 3500
+  },
+  {
+    "Destination": "Himalayan Trek Base",
+    "Country": "India",
+    "State": "Himachal Pradesh",
+    "SourceCity": "Delhi",
+    "Climate": "Continental",
+    "BudgetLevel": "Low",
+    "AvgCostINR": 8000,
+    "Activities": "Trekking, Mountain Views, Adventure",
+    "Rating": 4.8,
+    "SafetyIndex": 7.5,
+    "TransportCostINR": 2000
+  },
+  {
+    "Destination": "Rajasthan Palace",
+    "Country": "India",
+    "State": "Rajasthan",
+    "SourceCity": "Jaipur",
+    "Climate": "Arid",
+    "BudgetLevel": "High",
+    "AvgCostINR": 25000,
+    "Activities": "Heritage, Culture, Desert Safari",
+    "Rating": 4.7,
+    "SafetyIndex": 8.8,
+    "TransportCostINR": 4500
+  },
+  {
+    "Destination": "Kerala Backwaters",
+    "Country": "India",
+    "State": "Kerala",
+    "SourceCity": "Kochi",
+    "Climate": "Tropical",
+    "BudgetLevel": "Medium",
+    "AvgCostINR": 12000,
+    "Activities": "Houseboat, Nature, Ayurveda",
+    "Rating": 4.6,
+    "SafetyIndex": 9.0,
+    "TransportCostINR": 3000
+  },
+  {
+    "Destination": "Swiss Alps Resort",
+    "Country": "Switzerland",
+    "State": "",
+    "SourceCity": "Zurich",
+    "Climate": "Continental",
+    "BudgetLevel": "High",
+    "AvgCostINR": 45000,
+    "Activities": "Skiing, Mountain Views, Hiking",
+    "Rating": 4.9,
+    "SafetyIndex": 9.5,
+    "TransportCostINR": 8000
+  }
+]
